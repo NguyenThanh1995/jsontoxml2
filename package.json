@@ -1,0 +1,11 @@
+{
+   "name": "jsontoxml2",
+   "version": "0.0.1",
+   "description": "Simple lib convert json to xml",
+   "main": "src/index.js",
+   "author": "Nguyen Thanh",
+   "license": "MIT",
+   "keywords": [
+      "jsontoxml2"
+   ]
+}
